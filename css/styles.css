@@ -1,0 +1,57 @@
+header h1{
+    text-align: center;
+    color: azure;
+    
+}
+header h2{
+    color: aqua;
+    text-align: center;
+    font-style: oblique;
+    font-weight: bold;
+}
+body{
+    background-image: url(immages/download.jpeg);
+    background-size: cover;
+    
+    
+}
+h1{
+    font-weight: bolder;
+    font-style:italic;
+}
+
+header{
+    background-color: black;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    align-items: center;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    border-left: 2px solid white;
+}
+#main-section{
+    display: flex;
+}
+.destination img{
+    width: 200px;
+    height: 100px;
+    border-radius: 5px;
+    size: 100px;
+    
+    
+    
+}
+
+.destination{
+    border: 1px solid black;
+    padding: 10px;
+    display: flex;
+    
+}
