@@ -10,8 +10,9 @@ header h2{
     font-weight: bold;
 }
 body{
-    background-image: url(immages/download.jpeg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2DZPm0X1MMVY4XwZyrtMv80KIsX4MKnrm7w&s);
     background-size: cover;
+    height: 100vh;
     
     
 }
